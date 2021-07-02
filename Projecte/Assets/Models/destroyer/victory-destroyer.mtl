@@ -1,0 +1,151 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.12.2015 18:59:34
+
+newmtl STARDEST_HULL1
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6118 0.6118 0.6118
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_HULL2
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_SIDEWAL
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6118 0.6118 0.6118
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl Default
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7000 0.7000 0.7000
+	Kd 0.7000 0.7000 0.7000
+	Ks 0.7070 0.7070 0.7070
+	Ke 0.0000 0.0000 0.0000
+
+newmtl STARDEST_KUGEL_U
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6118 0.6118 0.6118
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+
+newmtl STARDEST_H1_WIN
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2314 0.9176 1.0000
+	Kd 0.2314 0.9176 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Ke Map__4_Mask.tga
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_SHIELDG
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6118 0.6118 0.6118
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+
+newmtl STARDEST_HECK1
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6118 0.6118 0.6118
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl STARDEST_HECK2
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6118 0.6118 0.6118
+	Kd 0.6118 0.6118 0.6118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_Kd C:\Documents and Settings\glenn\Desktop\STDESTTM.GIF
+	map_bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+	bump C:\Documents and Settings\glenn\Desktop\STDESTBM.GIF
+
+newmtl BLACK_MATTE
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.2400 0.2400 0.2400
+	Ke 0.0000 0.0000 0.0000

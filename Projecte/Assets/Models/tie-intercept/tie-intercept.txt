@@ -1,0 +1,8 @@
+Imperial TIE Interceptor
+------------------------
+
+Manufacturer: Sienar Fleet Systems
+Armament: Four SFS L-s9.3 laser cannons
+Crew: One
+Length: 6.23m
+Speed: 125 MGLT
